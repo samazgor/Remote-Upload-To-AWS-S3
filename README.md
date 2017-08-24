@@ -16,9 +16,9 @@ Here is the basic instructions -
 
     <code>npm install request</code>
 
-4. Create a file **[config.json]**(/config.json) - copy the code.
+4. Create a file [**config.json**](/config.json) - copy the code.
 
-5. Create your JS file **[filename.js]**(/filename.js) - copy the code.
+5. Create your JS file [**filename.js**](/filename.js) - copy the code.
 
 6. Navigate to the folder and type <code>node filename.js</code>
 
